@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+    /*global*/
+    /*nav*/
+    .navbar-default .navbar-toggle {
+        border-color: #a0801b;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #a0801b;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color:  rgba(160, 128, 27, 0.26);
+    }
+    .navbar-default .navbar-nav > li > .but-it-now {
+        margin: 0 10px;   
+    }
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+        border: none;   
+    }
+    header .navigation {
+        display: none;
+    }
+    h2 {
+        font-size: 24px;   
+    }
+    .inside img {
+        margin-top: 50px;   
+    }
+    .dont-throw {
+        background-size: contain;   
+    }
+    .dishes {
+        background-size:auto;
+    }
+    .try-banana hr {
+        border-color: #a0801b;   
+    }
+}
+
+@media (min-width: 769px) and (max-width: 991px) {
+    /*main*/
+
+}
+
+@media (min-width: 991px) {
+
+}
+@media (min-width: 1199px) {
+
+
+}
